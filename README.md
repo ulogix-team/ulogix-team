@@ -12,13 +12,13 @@
 
 # ulogix-team
 
-Repositorio principal del equipo Ulogix para el **Proyecto Integrador del curso Automatización de Procesos de Manufactura (APM) 2026-1**, Universidad Nacional de Colombia. Contiene la información general del proyecto, integrantes, flujo de trabajo y cronograma.
+Repositorio principal del equipo Ulogix para el **Proyecto Integrador del curso Automatización de Procesos de Manufactura (APM) 2026-1**, Universidad Nacional de Colombia.
 
 <img src="https://raw.githubusercontent.com/ulogix-team/assets/main/dividers/divider-section-dark.svg" width="100%"/>
 
 ## Descripción del Proyecto
 
-Línea automatizada de alto volumen de producción de bebidas **FEMSA / Coca-Cola**, que fabrica tres productos diferenciados en envases de bajo, medio y gran volumen. La solución integra:
+Línea automatizada de alto volumen de producción de bebidas **FEMSA / Coca-Cola** que fabrica tres productos diferenciados en envases de bajo, medio y gran volumen. La solución integra:
 
 - Arquitectura de automatización **ISA-95** (niveles 1–4)
 - Control lógico-secuencial **PLC** (Studio 5000 / Logix Emulate)
@@ -73,28 +73,25 @@ Línea automatizada de alto volumen de producción de bebidas **FEMSA / Coca-Col
 
 ## Flujo de Trabajo
 
+Todos los repositorios usan **dos ramas**:
+
 ```
 main ──────────────────────────────────────► producción estable
   │
-  └── develop ────────────────────────────► integración continua
-        ├── feature/arquitectura-red
-        ├── feature/robotstudio
-        ├── feature/plc-ladder
-        ├── feature/gemelo-digital
-        ├── feature/scada-hmi
-        ├── feature/oee-simulacion
-        └── feature/financiero
+  └── develop ────────────────────────────► integración y desarrollo
 ```
 
-**Convención de commits:** `tipo(módulo): descripción`
+Los cambios se desarrollan en `develop` y se integran a `main` mediante Pull Request con al menos una aprobación del compañero supervisor del área.
+
+**Convención de commits:**
 
 ```
+tipo(módulo): descripción
+
 feat(plc): agregar lógica Grafcet producto A
 fix(scada): corregir comunicación OPC
 docs(proceso): actualizar VSM línea 2
 ```
-
-Todo Pull Request requiere al menos una aprobación del compañero que supervisa el área.
 
 <img src="https://raw.githubusercontent.com/ulogix-team/assets/main/dividers/divider-section-dark.svg" width="100%"/>
 
@@ -105,7 +102,7 @@ Todo Pull Request requiere al menos una aprobación del compañero que supervisa
 | 1–4 | Introducción a la Automatización | Arquitectura ISA-95, P&ID, instrumentación |
 | 5–6 | Gestión y Evaluación de Producción | VSM, OEE, Takt time, simulación |
 | 7 | Planeación y Evaluación de Proyectos | EDT, presupuesto, análisis financiero |
-| **8** | **Entrega Semana 8** | **GitHub + Web + YouTube (≥30 min)** |
+| **8** | **Entrega Semana 8** | **GitHub + Web + YouTube (≥ 30 min)** |
 | 9–10 | Celda de Manufactura Robotizada | RobotStudio, análisis de riesgos |
 | 11–12 | Digital Factory & Controladores | NX, Grafcet, Ladder, Logix Emulate |
 | 13–14 | SCADA & Integración | Ignition, OPC-UA, integración gemelo |

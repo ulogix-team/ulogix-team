@@ -18,12 +18,6 @@ Ejemplo: `2026-03-03_primera-reunion.md`
 
 ## Plantilla de acta
 
-Cada acta debe incluir:
-
-- **Fecha y hora**
-- **Asistentes** (presentes / ausentes)
-- **Temas tratados**
-- **Decisiones tomadas**
-- **Compromisos** — responsable y fecha límite
+Cada acta debe incluir: **fecha y hora**, **asistentes**, **temas tratados**, **decisiones tomadas** y **compromisos** con responsable y fecha límite.
 
 <img src="https://raw.githubusercontent.com/ulogix-team/assets/main/banners/footer-dark.svg" width="100%"/>

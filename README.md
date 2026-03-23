@@ -3,6 +3,10 @@
 <img src="https://raw.githubusercontent.com/ulogix-team/assets/main/dividers/divider-dark.svg" width="100%"/>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/ulogix-team/assets/main/logos/ulogix-wordmark-dark.svg" height="70"/>
+</p>
+
+<p align="center">
   <a href="https://ulogix-team.github.io"><img src="https://img.shields.io/badge/Sitio_Web-ulogix--team.github.io-000000?style=flat-square"/></a>
   &nbsp;
   <img src="https://img.shields.io/badge/APM_2026--1-UNAL-000000?style=flat-square"/>
@@ -73,21 +77,15 @@ Línea automatizada de alto volumen de producción de bebidas **FEMSA / Coca-Col
 
 ## Flujo de Trabajo
 
-Todos los repositorios usan **dos ramas**:
-
 ```
 main ──────────────────────────────────────► producción estable
-  │
   └── develop ────────────────────────────► integración y desarrollo
 ```
 
 Los cambios se desarrollan en `develop` y se integran a `main` mediante Pull Request con al menos una aprobación del compañero supervisor del área.
 
 **Convención de commits:**
-
 ```
-tipo(módulo): descripción
-
 feat(plc): agregar lógica Grafcet producto A
 fix(scada): corregir comunicación OPC
 docs(proceso): actualizar VSM línea 2
@@ -112,8 +110,8 @@ docs(proceso): actualizar VSM línea 2
 
 ## Subcarpetas
 
-- [`actas/`](actas/) — Actas de reunión del equipo
-- [`cronograma/`](cronograma/) — Cronograma detallado y seguimiento
+- [`actas/`](actas/) — Actas de reunión
+- [`cronograma/`](cronograma/) — Cronograma y seguimiento
 - [`flujo-trabajo/`](flujo-trabajo/) — Guía de flujo de trabajo Git
 
 <img src="https://raw.githubusercontent.com/ulogix-team/assets/main/banners/footer-dark.svg" width="100%"/>

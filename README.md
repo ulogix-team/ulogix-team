@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ulogix-team/assets/main/banners/header-banner.svg" alt="Ulogix Banner" width="100%"/>
+  <img src="https://raw.githubusercontent.com/ulogix-team/assets/main/banners/header-dark.svg" alt="Ulogix Banner" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ulogix-team/assets/main/dividers/divider-main.svg" width="100%"/>
+  <img src="https://raw.githubusercontent.com/ulogix-team/assets/main/dividers/divider-dark.svg" width="100%"/>
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
 Equipo de trabajo para el **Proyecto Integrador** del curso **Automatización de Procesos de Manufactura (APM) 2026-1**, Universidad Nacional de Colombia. Diseñamos, simulamos y validamos una línea automatizada de alto volumen de producción de bebidas, integrando control lógico-secuencial, robótica, gemelo digital, SCADA y análisis financiero.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ulogix-team/assets/main/dividers/divider-section.svg" width="100%"/>
+  <img src="https://raw.githubusercontent.com/ulogix-team/assets/main/dividers/divider-dark.svg" width="100%"/>
 </p>
 
 ## 🏭 Descripción del Proyecto
@@ -36,7 +36,7 @@ La solución propuesta corresponde a una **línea automatizada de bebidas** que 
 - Análisis técnico-económico y propuesta de valor
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ulogix-team/assets/main/dividers/divider-section.svg" width="100%"/>
+  <img src="https://raw.githubusercontent.com/ulogix-team/assets/main/dividers/divider-dark.svg" width="100%"/>
 </p>
 
 ## 👥 Integrantes del Equipo
@@ -46,13 +46,13 @@ La solución propuesta corresponde a una **línea automatizada de bebidas** que 
 | — | **Andrés M. Morales Martínez** | Arquitectura de Red | [@mora200217](https://github.com/mora200217) | amoralesma@unal.edu.co | RobotStudio | Andrés F. Quenan |
 | — | **Andrés F. Quenan Pozo** | Robótica / RobotStudio | [@Andres-Felipe-Quenan](https://github.com/Andres-Felipe-Quenan) | aquenan@unal.edu.co | Arquitectura de Red | Andrés M. Morales |
 | — | **Juan José Díaz Guerrero** | PLC / Programación | [@Judiazgu](https://github.com/Judiazgu) | judiazgu@unal.edu.co | SCADA / HMI / MES | Juan F. Triana |
-| — | **Juan Manuel Beltrán Botello** | NX / Digital Factory | [@JuanBeltran2024](https://github.com/JuanBeltran2024) | jbeltranbo@unal.edu.co | Planeación y Manufactura | Samuel D. Sánchez |
+| — | **Juan Manuel Beltrán Botello** | NX / Digital Factory | [@JuanBeltran2024](https://github.com/JuanBeltran2024) | jbeltranbo@unal.edu.co | Planeación y Manufactura | Samuel David Sanchez Cardenas |
 | — | **Jorge N. Garzón Acevedo** | Planeación de Proceso | [@Nicolas-Eule](https://github.com/Nicolas-Eule) | jngarzona@unal.edu.co | Finanzas | Juan M. Beltrán |
-| — | **Samuel D. Sánchez Cardenas** | Finanzas | [@samsanchezcar](https://github.com/samsanchezcar) | samsanchezca@unal.edu.co | NX / Digital Factory | Jorge N. Garzón |
+| — | **Samuel David Sanchez Cardenas** | Finanzas | [@samsanchezcar](https://github.com/samsanchezcar) | samsanchezca@unal.edu.co | NX / Digital Factory | Jorge N. Garzón |
 | — | **Juan Felipe Triana Aguilera** | SCADA / HMI / MES | [@jutrianaa](https://github.com/jutrianaa) | jutrianaa@unal.edu.co | PLC / Programación | Juan J. Díaz |
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ulogix-team/assets/main/dividers/divider-section.svg" width="100%"/>
+  <img src="https://raw.githubusercontent.com/ulogix-team/assets/main/dividers/divider-dark.svg" width="100%"/>
 </p>
 
 ## 👨‍🏫 Profesores Supervisores
@@ -67,7 +67,7 @@ La solución propuesta corresponde a una **línea automatizada de bebidas** que 
 | Eduardo Barrera Gualdron | ebarrerag@unal.edu.co |
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ulogix-team/assets/main/dividers/divider-section.svg" width="100%"/>
+  <img src="https://raw.githubusercontent.com/ulogix-team/assets/main/dividers/divider-dark.svg" width="100%"/>
 </p>
 
 ## 🗂️ Repositorios del Proyecto
@@ -82,7 +82,7 @@ La solución propuesta corresponde a una **línea automatizada de bebidas** que 
 | [ulogix-scada-control](https://github.com/ulogix-team/ulogix-scada-control) | SCADA, HMI, PLC Ladder, Ignition, OPC | Triana, Díaz |
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ulogix-team/assets/main/dividers/divider-section.svg" width="100%"/>
+  <img src="https://raw.githubusercontent.com/ulogix-team/assets/main/dividers/divider-dark.svg" width="100%"/>
 </p>
 
 ## 🔄 Flujo de Trabajo
@@ -108,7 +108,7 @@ main ─────────────────────────
 - `docs(proceso): actualizar VSM línea 2`
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ulogix-team/assets/main/dividers/divider-section.svg" width="100%"/>
+  <img src="https://raw.githubusercontent.com/ulogix-team/assets/main/dividers/divider-dark.svg" width="100%"/>
 </p>
 
 ## 📅 Cronograma General
@@ -124,7 +124,7 @@ main ─────────────────────────
 | 15 | **Entrega Semana 15** | Entrega final completa |
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ulogix-team/assets/main/dividers/divider-section.svg" width="100%"/>
+  <img src="https://raw.githubusercontent.com/ulogix-team/assets/main/dividers/divider-dark.svg" width="100%"/>
 </p>
 
 ## 🔗 Links del Proyecto
@@ -134,5 +134,5 @@ main ─────────────────────────
 - 🎥 **YouTube:** _(próximamente)_
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ulogix-team/assets/main/banners/footer-banner.svg" width="100%"/>
+  <img src="https://raw.githubusercontent.com/ulogix-team/assets/main/banners/footer-dark.svg" width="100%"/>
 </p>

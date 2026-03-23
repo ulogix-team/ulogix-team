@@ -1,61 +1,51 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ulogix-team/assets/main/banners/header-dark.svg" alt="Ulogix Banner" width="100%"/>
-</p>
+<img src="https://raw.githubusercontent.com/ulogix-team/assets/main/banners/header-dark.svg" width="100%"/>
+
+<img src="https://raw.githubusercontent.com/ulogix-team/assets/main/dividers/divider-dark.svg" width="100%"/>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ulogix-team/assets/main/dividers/divider-dark.svg" width="100%"/>
-</p>
-
-<p align="center">
-  <a href="https://ulogix-team.github.io"><img src="https://img.shields.io/badge/Sitio%20Web-ulogix--team.github.io-7C3AED?style=flat-square&logo=github"/></a>
+  <a href="https://ulogix-team.github.io"><img src="https://img.shields.io/badge/Sitio_Web-ulogix--team.github.io-000000?style=flat-square"/></a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Curso-APM%202026--1-a855f7?style=flat-square"/>
+  <img src="https://img.shields.io/badge/APM_2026--1-UNAL-000000?style=flat-square"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Universidad-UNAL-7C3AED?style=flat-square"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Proceso-Línea%20de%20Bebidas-0e0525?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Línea_de_Bebidas-FEMSA-000000?style=flat-square"/>
 </p>
 
-# Ulogix — Automatización de Procesos de Manufactura
+# ulogix-team
 
-Equipo de trabajo para el **Proyecto Integrador** del curso **Automatización de Procesos de Manufactura (APM) 2026-1**, Universidad Nacional de Colombia. Diseñamos, simulamos y validamos una línea automatizada de alto volumen de producción de bebidas, integrando control lógico-secuencial, robótica, gemelo digital, SCADA y análisis financiero.
+Repositorio principal del equipo Ulogix para el **Proyecto Integrador del curso Automatización de Procesos de Manufactura (APM) 2026-1**, Universidad Nacional de Colombia. Contiene la información general del proyecto, integrantes, flujo de trabajo y cronograma.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ulogix-team/assets/main/dividers/divider-dark.svg" width="100%"/>
-</p>
+<img src="https://raw.githubusercontent.com/ulogix-team/assets/main/dividers/divider-section-dark.svg" width="100%"/>
 
-## 🏭 Descripción del Proyecto
+## Descripción del Proyecto
 
-La solución propuesta corresponde a una **línea automatizada de bebidas** que fabrica al menos tres productos diferenciados (agua, bebida energética y jugo) en envases de bajo, medio y gran volumen. El sistema integra:
+Línea automatizada de alto volumen de producción de bebidas **FEMSA / Coca-Cola**, que fabrica tres productos diferenciados en envases de bajo, medio y gran volumen. La solución integra:
 
-- Arquitectura ISA-95 con PLC (Studio 5000 / Logix Emulate)
-- Celda robotizada (RobotStudio)
-- Gemelo digital (NX / Digital Factory)
-- Supervisión SCADA (Ignition + OPC)
-- Análisis de producción y OEE
-- Análisis técnico-económico y propuesta de valor
+- Arquitectura de automatización **ISA-95** (niveles 1–4)
+- Control lógico-secuencial **PLC** (Studio 5000 / Logix Emulate)
+- Celda robotizada **ABB** (RobotStudio)
+- Gemelo digital (**Siemens NX** / Digital Factory)
+- Supervisión **SCADA** (Ignition + OPC-UA)
+- Análisis de producción y **OEE**
+- Análisis técnico-económico (VPN, TIR, flujo de caja)
+- MES con **Power BI** y analítica en Python
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ulogix-team/assets/main/dividers/divider-dark.svg" width="100%"/>
-</p>
+<img src="https://raw.githubusercontent.com/ulogix-team/assets/main/dividers/divider-section-dark.svg" width="100%"/>
 
-## 👥 Integrantes del Equipo
+## Integrantes del Equipo
 
-| Foto | Nombre | Rol | GitHub | Correo | Supervisa | Supervisado por |
-|:---:|---|---|:---:|---|---|---|
-| — | **Andrés M. Morales Martínez** | Arquitectura de Red | [@mora200217](https://github.com/mora200217) | amoralesma@unal.edu.co | RobotStudio | Andrés F. Quenan |
-| — | **Andrés F. Quenan Pozo** | Robótica / RobotStudio | [@Andres-Felipe-Quenan](https://github.com/Andres-Felipe-Quenan) | aquenan@unal.edu.co | Arquitectura de Red | Andrés M. Morales |
-| — | **Juan José Díaz Guerrero** | PLC / Programación | [@Judiazgu](https://github.com/Judiazgu) | judiazgu@unal.edu.co | SCADA / HMI / MES | Juan F. Triana |
-| — | **Juan Manuel Beltrán Botello** | NX / Digital Factory | [@JuanBeltran2024](https://github.com/JuanBeltran2024) | jbeltranbo@unal.edu.co | Planeación y Manufactura | Samuel David Sanchez Cardenas |
-| — | **Jorge N. Garzón Acevedo** | Planeación de Proceso | [@Nicolas-Eule](https://github.com/Nicolas-Eule) | jngarzona@unal.edu.co | Finanzas | Juan M. Beltrán |
-| — | **Samuel David Sanchez Cardenas** | Finanzas | [@samsanchezcar](https://github.com/samsanchezcar) | samsanchezca@unal.edu.co | NX / Digital Factory | Jorge N. Garzón |
-| — | **Juan Felipe Triana Aguilera** | SCADA / HMI / MES | [@jutrianaa](https://github.com/jutrianaa) | jutrianaa@unal.edu.co | PLC / Programación | Juan J. Díaz |
+| Nombre | Correo | GitHub | Rol | Supervisa | Supervisado por |
+|---|---|:---:|---|---|---|
+| Andrés Mauricio Morales Martínez | amoralesma@unal.edu.co | [@mora200217](https://github.com/mora200217) | Arquitectura de Red | RobotStudio | Andrés F. Quenan |
+| Andrés Felipe Quenan Pozo | aquenan@unal.edu.co | [@Andres-Felipe-Quenan](https://github.com/Andres-Felipe-Quenan) | Robótica / RobotStudio | Arquitectura de Red | Andrés M. Morales |
+| Juan José Díaz Guerrero | judiazgu@unal.edu.co | [@Judiazgu](https://github.com/Judiazgu) | PLC / Programación | SCADA / HMI / MES | Juan F. Triana |
+| Juan Manuel Beltrán Botello | jbeltranbo@unal.edu.co | [@JuanBeltran2024](https://github.com/JuanBeltran2024) | NX / Digital Factory | Planeación de Proceso | Samuel D. Sanchez |
+| Jorge Nicolas Garzón Acevedo | jngarzona@unal.edu.co | [@Nicolas-Eule](https://github.com/Nicolas-Eule) | Planeación de Proceso | Finanzas | Juan M. Beltrán |
+| Samuel David Sanchez Cardenas | samsanchezca@unal.edu.co | [@samsanchezcar](https://github.com/samsanchezcar) | Finanzas | NX / Digital Factory | Jorge N. Garzón |
+| Juan Felipe Triana Aguilera | jutrianaa@unal.edu.co | [@jutrianaa](https://github.com/jutrianaa) | SCADA / HMI / MES | PLC / Programación | Juan J. Díaz |
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ulogix-team/assets/main/dividers/divider-dark.svg" width="100%"/>
-</p>
+<img src="https://raw.githubusercontent.com/ulogix-team/assets/main/dividers/divider-section-dark.svg" width="100%"/>
 
-## 👨‍🏫 Profesores Supervisores
+## Profesores Supervisores
 
 | Nombre | Correo |
 |---|---|
@@ -66,73 +56,67 @@ La solución propuesta corresponde a una **línea automatizada de bebidas** que 
 | Ubaldo García | ugarciaz@unal.edu.co |
 | Eduardo Barrera Gualdron | ebarrerag@unal.edu.co |
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ulogix-team/assets/main/dividers/divider-dark.svg" width="100%"/>
-</p>
+<img src="https://raw.githubusercontent.com/ulogix-team/assets/main/dividers/divider-section-dark.svg" width="100%"/>
 
-## 🗂️ Repositorios del Proyecto
+## Repositorios del Proyecto
 
-| Repositorio | Descripción | Responsable principal |
+| Repositorio | Descripción | Responsables |
 |---|---|---|
 | [ulogix-team](https://github.com/ulogix-team/ulogix-team) | Información general, integrantes, flujo de trabajo | Todos |
 | [assets](https://github.com/ulogix-team/assets) | Identidad visual, logos SVG, banners, divisores | Todos |
-| [ulogix-manufacturing](https://github.com/ulogix-team/ulogix-manufacturing) | Proceso, planta, NX, gemelo digital, Studio 5000 | Beltrán, Quenan, Morales, Díaz |
-| [ulogix-team.github.io](https://github.com/ulogix-team/ulogix-team.github.io) | Página web del proyecto | Todos |
-| [ulogix-data-finance](https://github.com/ulogix-team/ulogix-data-finance) | OEE, tiempos, análisis financiero, Power BI | Garzón, Sánchez |
-| [ulogix-scada-control](https://github.com/ulogix-team/ulogix-scada-control) | SCADA, HMI, PLC Ladder, Ignition, OPC | Triana, Díaz |
+| [ulogix-manufacturing](https://github.com/ulogix-team/ulogix-manufacturing) | Proceso, planta, NX, gemelo digital, Studio 5000, RobotStudio | Beltrán, Quenan, Morales, Díaz, Garzón |
+| [ulogix-team.github.io](https://github.com/ulogix-team/ulogix-team.github.io) | Sitio web del proyecto | Todos |
+| [ulogix-data-finance](https://github.com/ulogix-team/ulogix-data-finance) | OEE, tiempos, análisis financiero, Power BI | Garzón, Sanchez, Triana |
+| [ulogix-scada-control](https://github.com/ulogix-team/ulogix-scada-control) | SCADA, HMI, Ladder, OPC-UA | Triana, Díaz, Morales |
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ulogix-team/assets/main/dividers/divider-dark.svg" width="100%"/>
-</p>
+<img src="https://raw.githubusercontent.com/ulogix-team/assets/main/dividers/divider-section-dark.svg" width="100%"/>
 
-## 🔄 Flujo de Trabajo
+## Flujo de Trabajo
 
 ```
-main ──────────────────────────────────────────► producción estable
+main ──────────────────────────────────────► producción estable
   │
-  ├── develop ──────────────────────────────────► integración continua
-  │     │
-  │     ├── feature/arquitectura-red
-  │     ├── feature/robotstudio
-  │     ├── feature/plc-ladder
-  │     ├── feature/gemelo-digital
-  │     ├── feature/scada-hmi
-  │     ├── feature/oee-simulacion
-  │     └── feature/financiero
+  └── develop ────────────────────────────► integración continua
+        ├── feature/arquitectura-red
+        ├── feature/robotstudio
+        ├── feature/plc-ladder
+        ├── feature/gemelo-digital
+        ├── feature/scada-hmi
+        ├── feature/oee-simulacion
+        └── feature/financiero
 ```
 
-**Convención de commits:** `tipo(módulo): descripción breve`
+**Convención de commits:** `tipo(módulo): descripción`
 
-- `feat(plc): agregar lógica Grafcet producto A`
-- `fix(scada): corregir comunicación OPC`
-- `docs(proceso): actualizar VSM línea 2`
+```
+feat(plc): agregar lógica Grafcet producto A
+fix(scada): corregir comunicación OPC
+docs(proceso): actualizar VSM línea 2
+```
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ulogix-team/assets/main/dividers/divider-dark.svg" width="100%"/>
-</p>
+Todo Pull Request requiere al menos una aprobación del compañero que supervisa el área.
 
-## 📅 Cronograma General
+<img src="https://raw.githubusercontent.com/ulogix-team/assets/main/dividers/divider-section-dark.svg" width="100%"/>
+
+## Cronograma
 
 | Semana | Módulo | Entregable |
 |---|---|---|
-| 1–4 | Introducción a la Automatización | Arquitectura ISA-95, P&ID |
-| 5–6 | Gestión y Evaluación de Producción | VSM, OEE, Takt time |
-| 7–8 | **Entrega Semana 8** | GitHub + Web + YouTube (≥30 min) |
-| 9–10 | Celdas Robóticas | RobotStudio, análisis de riesgos |
+| 1–4 | Introducción a la Automatización | Arquitectura ISA-95, P&ID, instrumentación |
+| 5–6 | Gestión y Evaluación de Producción | VSM, OEE, Takt time, simulación |
+| 7 | Planeación y Evaluación de Proyectos | EDT, presupuesto, análisis financiero |
+| **8** | **Entrega Semana 8** | **GitHub + Web + YouTube (≥30 min)** |
+| 9–10 | Celda de Manufactura Robotizada | RobotStudio, análisis de riesgos |
 | 11–12 | Digital Factory & Controladores | NX, Grafcet, Ladder, Logix Emulate |
-| 13–14 | SCADA & Planeación Económica | Ignition, OPC, flujo de caja |
-| 15 | **Entrega Semana 15** | Entrega final completa |
+| 13–14 | SCADA & Integración | Ignition, OPC-UA, integración gemelo |
+| **15** | **Entrega Semana 15** | **Entrega final completa** |
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ulogix-team/assets/main/dividers/divider-dark.svg" width="100%"/>
-</p>
+<img src="https://raw.githubusercontent.com/ulogix-team/assets/main/dividers/divider-section-dark.svg" width="100%"/>
 
-## 🔗 Links del Proyecto
+## Subcarpetas
 
-- 🌐 **Sitio web:** [ulogix-team.github.io](https://ulogix-team.github.io)
-- 📁 **Organización GitHub:** [github.com/ulogix-team](https://github.com/ulogix-team)
-- 🎥 **YouTube:** _(próximamente)_
+- [`actas/`](actas/) — Actas de reunión del equipo
+- [`cronograma/`](cronograma/) — Cronograma detallado y seguimiento
+- [`flujo-trabajo/`](flujo-trabajo/) — Guía de flujo de trabajo Git
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ulogix-team/assets/main/banners/footer-dark.svg" width="100%"/>
-</p>
+<img src="https://raw.githubusercontent.com/ulogix-team/assets/main/banners/footer-dark.svg" width="100%"/>

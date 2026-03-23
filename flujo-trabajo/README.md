@@ -1,8 +1,10 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ulogix-team/assets/main/dividers/divider-dark.svg" width="100%"/>
-</p>
+<img src="https://raw.githubusercontent.com/ulogix-team/assets/main/banners/header-dark.svg" width="100%"/>
 
-# 🔄 Flujo de Trabajo del Equipo
+<img src="https://raw.githubusercontent.com/ulogix-team/assets/main/dividers/divider-dark.svg" width="100%"/>
+
+# Flujo de Trabajo del Equipo
+
+<img src="https://raw.githubusercontent.com/ulogix-team/assets/main/dividers/divider-section-dark.svg" width="100%"/>
 
 ## Ramas Git
 
@@ -17,13 +19,18 @@
 ```
 tipo(módulo): descripción breve en español
 
-Tipos: feat · fix · docs · refactor · test · chore
+Tipos válidos:
+  feat     nueva funcionalidad
+  fix      corrección de error
+  docs     documentación
+  refactor refactorización sin cambio de comportamiento
+  test     pruebas
+  chore    tareas de mantenimiento
 ```
 
 ## Revisión de Código
 
-Cada Pull Request requiere al menos **una aprobación** del compañero que supervisa el área.  
-Ver tabla de roles y supervisión en el [README principal](../README.md).
+Cada Pull Request requiere al menos **una aprobación** del compañero que supervisa el área. Ver tabla de roles en el [README principal](../README.md).
 
 ## Herramientas
 
@@ -31,5 +38,6 @@ Ver tabla de roles y supervisión en el [README principal](../README.md).
 |---|---|
 | GitHub Projects | Gestión de tareas y sprints |
 | GitHub Issues | Registro de bugs y mejoras |
-| Pull Requests | Revisión de código antes de merge |
-| GitHub Actions | (opcional) CI para verificar estructura |
+| Pull Requests | Revisión antes de merge a `develop` o `main` |
+
+<img src="https://raw.githubusercontent.com/ulogix-team/assets/main/banners/footer-dark.svg" width="100%"/>

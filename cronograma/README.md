@@ -1,10 +1,12 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ulogix-team/assets/main/dividers/divider-dark.svg" width="100%"/>
-</p>
+<img src="https://raw.githubusercontent.com/ulogix-team/assets/main/banners/header-dark.svg" width="100%"/>
 
-# 📅 Cronograma del Proyecto
+<img src="https://raw.githubusercontent.com/ulogix-team/assets/main/dividers/divider-dark.svg" width="100%"/>
 
-## Entregables Clave
+# Cronograma del Proyecto
+
+<img src="https://raw.githubusercontent.com/ulogix-team/assets/main/dividers/divider-section-dark.svg" width="100%"/>
+
+## Entregables clave
 
 | Fecha | Entregable | Estado |
 |---|---|---|
@@ -13,10 +15,12 @@
 | Semana 15 (lunes) | Entrega final: GitHub + Web + Video | ⏳ Pendiente |
 | Semana 15 (miércoles/viernes) | Sustentación final | ⏳ Pendiente |
 
-## EDT (Estructura de Desglose del Trabajo
+## EDT y presupuesto
 
-Ver archivo Excel de planeación en el repo [ulogix-data-finance](https://github.com/ulogix-team/ulogix-data-finance) — carpeta `financiero/presupuesto/`.
+Ver archivos Excel en [ulogix-data-finance/financiero/presupuesto/](https://github.com/ulogix-team/ulogix-data-finance/tree/main/financiero/presupuesto).
 
 ## Seguimiento semanal
 
-Los avances semanales se registran en las actas de reunión en la carpeta [`../actas/`](../actas/).
+Los avances semanales se registran en las actas de reunión en [`../actas/`](../actas/).
+
+<img src="https://raw.githubusercontent.com/ulogix-team/assets/main/banners/footer-dark.svg" width="100%"/>

@@ -13,7 +13,9 @@
   &nbsp;
   <img src="https://img.shields.io/badge/FEMSA_Fontibón-Bogotá-000000?style=flat-square"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/OEE_base-78.67%25-000000?style=flat-square"/>
+  <img src="https://img.shields.io/badge/OEE_base-81%25-000000?style=flat-square"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/RACI-Matriz_de_roles-000000?style=flat-square"/>
 </p>
 
 # ulogix-team
@@ -195,6 +197,23 @@ Planta de referencia: **FEMSA / Coca-Cola Fontibón, Bogotá** — visita técni
 
 <img src="https://raw.githubusercontent.com/ulogix-team/assets/main/dividers/divider-section-dark.svg" width="100%"/>
 
+## Matriz RACI — Responsabilidades por Módulo
+
+| Área del proyecto | A.Mo<br/>Arq. | A.Qu<br/>Robot. | J.Di<br/>PLC | J.Be<br/>NX/DF | J.Ga<br/>Proc. | S.Sa<br/>Fin. | J.Tr<br/>SCADA |
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| **Arquitectura e inicio** | R | I | R | R | R | R | R |
+| **Diagnóstico y modelado** | A | S | I | C | R | I | I |
+| **Evaluación económica** | I | I | I | C | AS | R | I |
+| **Celda robotizada** | S | A | C | R | I | S | I |
+| **Gemelo digital (DF)** | C | S | R | A | I | S | I |
+| **Control PLC / Ladder** | I | I | A | R | I | I | S |
+| **SCADA / MES / IoT** | A | S | C | I | I | I | A |
+| **Cierre y sustentación** | R | R | R | R | R | R | R |
+
+**R** Responsible · **A** Accountable · **C** Consulted · **I** Informed · **S** Supervisor de par — ver detalle completo en [`raci/`](raci/).
+
+<img src="https://raw.githubusercontent.com/ulogix-team/assets/main/dividers/divider-section-dark.svg" width="100%"/>
+
 ## Flujo de Trabajo
 
 ```
@@ -219,5 +238,6 @@ docs(vsm): actualizar VSM estado futuro línea 2
 - [`actas/`](actas/) — Actas de reunión en formato **PDF**
 - [`cronograma/`](cronograma/) — Cronograma detallado con fechas del Gantt
 - [`flujo-trabajo/`](flujo-trabajo/) — Guía de flujo de trabajo Git (main + develop)
+- [`raci/`](raci/) — Matriz RACI de responsabilidades por módulo
 
 <img src="https://raw.githubusercontent.com/ulogix-team/assets/main/banners/footer-dark.svg" width="100%"/>

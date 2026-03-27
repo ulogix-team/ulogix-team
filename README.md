@@ -38,15 +38,67 @@ Planta de referencia: **FEMSA / Coca-Cola Fontibón, Bogotá** — visita técni
 
 ## Integrantes del Equipo
 
-| Nombre | GitHub | Rol técnico | Roles adicionales | Supervisa | Supervisado por |
-|---|:---:|---|---|---|---|
-| Andrés Mauricio Morales Martínez | [@mora200217](https://github.com/mora200217) | Arquitectura de Red / ISA-95 / P&ID | — | A. Quenan | Andrés F. Quenan |
-| Andrés Felipe Quenan Pozo | [@Andres-Felipe-Quenan](https://github.com/Andres-Felipe-Quenan) | Robótica / RobotStudio | — | A. Morales | Andrés M. Morales |
-| Juan José Díaz Guerrero | [@Judiazgu](https://github.com/Judiazgu) | PLC / Grafcet / Ladder | — | J. Triana | Juan F. Triana |
-| Juan Manuel Beltrán Botello | [@JuanBeltran2024](https://github.com/JuanBeltran2024) | NX / Digital Factory | Layout (dibujó) | J. Garzón | Samuel D. Sanchez |
-| Jorge Nicolas Garzón Acevedo | [@Nicolas-Eule](https://github.com/Nicolas-Eule) | Planeación de Proceso / VSM | — | S. Sanchez | Juan M. Beltrán |
-| **Samuel David Sanchez Cardenas** | [@samsanchezcar](https://github.com/samsanchezcar) | **Finanzas / EDT** | **GitHub & Docs · Supervisión NX/DF · MES Power BI** | J. Beltrán (NX/DF) | Jorge N. Garzón |
-| Juan Felipe Triana Aguilera | [@jutrianaa](https://github.com/jutrianaa) | SCADA / HMI / Ignition | Python analytics | J. Díaz | Juan J. Díaz |
+<table>
+<tr>
+
+<td align="center" width="185">
+  <img src="equipo/andres-morales.png" width="130" style="border-radius:8px"/><br/>
+  <strong>Andrés M. Morales</strong><br/>
+  <sub>Arquitectura · ISA-95 · P&ID</sub><br/>
+  <a href="https://github.com/mora200217">@mora200217</a>
+</td>
+
+<td align="center" width="185">
+  <img src="equipo/andres-quenan.png" width="130" style="border-radius:8px"/><br/>
+  <strong>Andrés F. Quenan</strong><br/>
+  <sub>Robótica · RobotStudio</sub><br/>
+  <a href="https://github.com/Andres-Felipe-Quenan">@Andres-Felipe-Quenan</a>
+</td>
+
+<td align="center" width="185">
+  <img src="equipo/juan-diaz.png" width="130" style="border-radius:8px"/><br/>
+  <strong>Juan J. Díaz</strong><br/>
+  <sub>PLC · Grafcet · Ladder</sub><br/>
+  <a href="https://github.com/Judiazgu">@Judiazgu</a>
+</td>
+
+<td align="center" width="185">
+  <img src="equipo/juan-beltran.png" width="130" style="border-radius:8px"/><br/>
+  <strong>Juan M. Beltrán</strong><br/>
+  <sub>NX · Digital Factory</sub><br/>
+  <a href="https://github.com/JuanBeltran2024">@JuanBeltran2024</a>
+</td>
+
+</tr>
+<tr>
+
+<td align="center" width="185">
+  <img src="equipo/jorge-garzon.png" width="130" style="border-radius:8px"/><br/>
+  <strong>Jorge N. Garzón</strong><br/>
+  <sub>VSM · Proceso · OEE</sub><br/>
+  <a href="https://github.com/Nicolas-Eule">@Nicolas-Eule</a>
+</td>
+
+<td align="center" width="185">
+  <img src="equipo/samuel-sanchez.png" width="130" style="border-radius:8px"/><br/>
+  <strong>Samuel D. Sanchez</strong><br/>
+  <sub>Finanzas · EDT · GitHub · MES</sub><br/>
+  <a href="https://github.com/samsanchezcar">@samsanchezcar</a>
+</td>
+
+<td align="center" width="185">
+  <img src="equipo/juan-triana.png" width="130" style="border-radius:8px"/><br/>
+  <strong>Juan F. Triana</strong><br/>
+  <sub>SCADA · HMI · Ignition · Python</sub><br/>
+  <a href="https://github.com/jutrianaa">@jutrianaa</a>
+</td>
+
+<td width="185"></td>
+
+</tr>
+</table>
+
+> Ver detalle de roles y supervisión en [`equipo/`](equipo/).
 
 <img src="https://raw.githubusercontent.com/ulogix-team/assets/main/dividers/divider-section-dark.svg" width="100%"/>
 
@@ -238,6 +290,7 @@ docs(vsm): actualizar VSM estado futuro línea 2
 - [`actas/`](actas/) — Actas de reunión en formato **PDF**
 - [`cronograma/`](cronograma/) — Cronograma detallado con fechas del Gantt
 - [`flujo-trabajo/`](flujo-trabajo/) — Guía de flujo de trabajo Git (main + develop)
+- [`equipo/`](equipo/) — Fotos y roles de cada integrante
 - [`raci/`](raci/) — Matriz RACI de responsabilidades por módulo
 
 <img src="https://raw.githubusercontent.com/ulogix-team/assets/main/banners/footer-dark.svg" width="100%"/>
